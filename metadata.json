@@ -1,0 +1,6 @@
+{
+  "name": "BDCC: Orbital Station RPG",
+  "description": "A web-based sci-fi space prison survival and escape text RPG inspired by Broken Dreams Correctional Center, featuring node-map exploration, daily schedules, tactical turn-based combat, crafting, and multiple escape endings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
